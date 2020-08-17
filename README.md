@@ -10,5 +10,4 @@ Type|Item|Price
 **CPU Fan** | [Asetek 645LT](https://store.asetek.com/products/asetek-645lt-92mm-performance-liquid-cpu-cooler) | $99.00 @ asetek
 **CPU Fan Retention Kit** | [Intel LGA115X Retention Kit](https://www.amazon.com/Premium-LGA115X-Retention-Asetek-Based-Coolers/dp/B085VN1V94?ref_=ast_sto_dp) | $12.99 @ amazon
 **Custom Motherboard Cable** | [24 Pin Paracord Custom Sleeved Cable](https://www.pslatecustoms.com/collections/frontpage/products/dan-cases-a4-sfx-24-pin-to-10-18-pin-cable-corsair-sf600-sf450?variant=15457927331951) | $69.99 @ pslatecustoms
-|
 **Total** || **$1100.94** |
